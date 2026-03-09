@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: TREASURE GAME
+PURPOSE OF PROJECT: Try to gather all the gold before the troll steals it!
+VERSION or DATE: v2.0.0
+HOW TO START THIS PROJECT: Blue Jay or another Java Extension
+AUTHORS: Reese Johnson, Howie Nguyen
+USER INSTRUCTIONS: Run the TreasureGame.java file to run this program
