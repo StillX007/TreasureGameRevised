@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GameBoard
+comment0.text=\n\ Contributor(s)\:\ \n\ Your\ name\:\ Howie\ Nguyen;\ CSID\:\ 0005774775\n\ \ \ \ \ \ \ \ \ \ \ \ Reese\ Johnson;\ CSID\:\ 0005689389\n\ \ \ \ \ \ \ \ \ \ \ \ \n\ Sources\:\n\ Starting\ Out\ with\ Java,\ 6th\ edition,\ T.\ Gaddis\n\ http\://MyProgrammingLab.com\:\ Starting\ Out\ with\ Java,\ 6th\ edition\n\ https\://docs.oracle.com/javase/tutorial/uiswing/layout/using.html\#set\n\ Jason\ Hawk\ phone\ number\:\ 510-996-2264\n\n\ Version\:\ 12/09/2019\n\ \n\ \n\n\ \ |-----------------------------------------------------------|\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ GameBoard\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\n\ \ |-----------------------------------------------------------|\n\ \ |\ \ \ \ \ \ Responsibilities\ \ \ \ \ \ \ \ \ |\ \ \ Collaborating\ Classes\ \ \ |\n\ \ |-------------------------------+---------------------------|\n\ \ |\ \ \ \ \ Create\ functionality\ \ \ \ \ \ |\ \ \ \ \ \ \ TrollButton\ \ \ \ \ \ \ \ \ |\n\ \ |\ \ \ \ \ of\ the\ game\ board\ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ EmptyButton\ \ \ \ \ \ \ \ \ |\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ TreasureButton\ \ \ \ \ \ |\n\ \ |\ \ \ \ \ Shows\ different\ buttons\ \ \ |\ \ \ \ \ \ \ TreasureGame\ \ \ \ \ \ \ \ |\n\ \ |\ \ \ \ \ when\ clicked\ \ \ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\n\ \ |-------------------------------+---------------------------|\n
+comment1.params=treasureGame\ triesField\ treasureField\ pointsField\ lastMoveField
+comment1.target=GameBoard(TreasureGame,\ javax.swing.JTextField,\ javax.swing.JTextField,\ javax.swing.JTextField,\ javax.swing.JTextField)
+comment1.text=\n\ Purpose\:\ This\ game\ is\ intended\ to\ create\ a\ gridlayout\ treasure\ hunt\ game\n\ signature\:\ nothing\n\ example\:\ GameBoard(TreasureGame\ treasureGame,\ JTextField\ triesField,\ JTextField\ treasureField,\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ JTextField\ pointsField,\ JTextField\ lastMoveField)\n
+comment2.params=
+comment2.target=void\ addGame()
+comment2.text=\n\ Purpose\:\ To\ add\ the\ treasure\n\ signature\:\ nothing\n\ example\:\ addGame()\n
+comment3.params=
+comment3.target=void\ setDisabled()
+comment3.text=\n\ Purpose\:\ To\ reveal\ game\ board\n\ signature\:\ nothing\n\ example\:\ setDisable()\n
+numComments=4
