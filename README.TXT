@@ -11,6 +11,6 @@ HOW TO START THIS PROJECT: Blue Jay or another Java Extension
 AUTHORS: Reese Johnson, Howie Nguyen
 USER INSTRUCTIONS: Have Java installed, run java TreasureGameView in the terminal, have fun :)
 
-![Troll Game](./TrollGame.png)
+![Troll Game](src/TrollGame.png)
 
 ![Troll Game 2](TrollGame2.png)
