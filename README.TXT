@@ -9,4 +9,8 @@ PURPOSE OF PROJECT: Try to gather all the gold before the troll steals it!
 VERSION or DATE: v2.0.0
 HOW TO START THIS PROJECT: Blue Jay or another Java Extension
 AUTHORS: Reese Johnson, Howie Nguyen
-USER INSTRUCTIONS: Run the TreasureGame.java file to run this program
+USER INSTRUCTIONS: Have Java installed, run java TreasureGameView in the terminal, have fun :)
+
+![Troll Game](TrollGame.png)
+
+![Troll Game 2](TrollGame2.png)
