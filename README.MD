@@ -13,4 +13,4 @@ USER INSTRUCTIONS: Have Java installed, run java TreasureGameView in the termina
 
 ![Troll Game](./TrollGame.png)
 
-![Troll Game 2](TrollGame2.png)
+![Troll Game 2](TrollGame3.png)
